@@ -581,7 +581,7 @@ namespace ConsoleApp1
 
         public void DeactivateAllButtons()
         {
-            for (int i = 0; i < mapSize; i++)
+            for (int i = 1; i < mapSize; i++)
             {
                 for (int j = 0; j < mapSize; j++)
                 {
