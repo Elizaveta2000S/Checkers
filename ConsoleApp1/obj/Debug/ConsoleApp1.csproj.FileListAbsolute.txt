@@ -1,0 +1,8 @@
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Nata\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
