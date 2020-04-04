@@ -12,8 +12,8 @@ namespace ConsoleApp1
 {
     public partial class Form1 : Form
     {
-        const int mapSize = 8;
-        const int cellSize = 50;
+        const int mapSize = 16;
+        const int cellSize = 100;
 
         int currentPlayer;
 
