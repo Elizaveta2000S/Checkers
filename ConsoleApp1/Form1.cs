@@ -19,10 +19,10 @@ namespace ConsoleApp1
 
         List<Button> simpleSteps = new List<Button>();
 
-        int countEatSteps = 0;
+        int countEatSteps = 1;
         Button prevButton;
         Button pressedButton;
-        bool isContinue = false;
+        bool isContinue = true;
 
         bool isMoving;
 
