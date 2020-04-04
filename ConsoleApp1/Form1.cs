@@ -447,7 +447,7 @@ namespace ConsoleApp1
         {
             bool eatStep = false;
             int j = JcurrFigure + 1;
-            for (int i = IcurrFigure - 1; i >= 0; i--)
+            for (int i = IcurrFigure - 2; i >= 0; i--)
             {
                 if (currentPlayer == 1 && isOneStep && !isContinue) break;
                 if (dir[0] == 1 && dir[1] == -1 && !isOneStep) break;
@@ -581,7 +581,7 @@ namespace ConsoleApp1
 
         public void DeactivateAllButtons()
         {
-            for (int i = 1; i < mapSize; i++)
+            for (int i = 0; i < mapSize; i++)
             {
                 for (int j = 0; j < mapSize; j++)
                 {
